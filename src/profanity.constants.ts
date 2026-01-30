@@ -1,0 +1,1 @@
+export const PROFANITY_OPTIONS = Symbol("PROFANITY_OPTIONS");
