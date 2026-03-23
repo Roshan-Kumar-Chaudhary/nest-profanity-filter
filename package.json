@@ -1,6 +1,6 @@
 {
   "name": "nepali-english-profanity-filter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NestJS profanity filter (English + Nepali) with custom dictionaries",
   "license": "MIT",
   "author": "Roshan Chaudhary",
