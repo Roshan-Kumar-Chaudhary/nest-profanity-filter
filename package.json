@@ -1,16 +1,20 @@
 {
   "name": "nepali-english-profanity-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NestJS profanity filter (English + Nepali) with custom dictionaries",
-
   "license": "MIT",
   "author": "Roshan Chaudhary",
   "repository": {
     "type": "git",
     "url": "https://github.com/Roshan-Kumar-Chaudhary/nest-profanity-filter"
   },
-  "keywords": ["nestjs", "profanity", "filter", "nepali", "english"],
-
+  "keywords": [
+    "nestjs",
+    "profanity",
+    "filter",
+    "nepali",
+    "english"
+  ],
   "main": "./dist/index.cjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -21,7 +25,9 @@
       "import": "./dist/index.mjs"
     }
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "sideEffects": false,
   "scripts": {
     "clean": "rimraf dist",
